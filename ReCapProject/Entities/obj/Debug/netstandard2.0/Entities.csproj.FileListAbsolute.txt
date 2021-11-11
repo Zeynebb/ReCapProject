@@ -1,0 +1,9 @@
+C:\c#AngularCamp\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\c#AngularCamp\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\c#AngularCamp\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
