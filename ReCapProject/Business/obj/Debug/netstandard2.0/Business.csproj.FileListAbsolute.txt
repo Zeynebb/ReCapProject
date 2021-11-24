@@ -12,3 +12,5 @@ C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.Assembl
 C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb
