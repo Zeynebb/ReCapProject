@@ -19,8 +19,16 @@ namespace Business.Concrete
 
         public IResult Add(Brand brand)
         {
-            _brandDal.Add(brand);
-            return new SuccessResult(Messages.BrandAdded);
+            if (brand.BrandName.Length>2)
+            {
+                _brandDal.Add(brand);
+                return new SuccessResult(Messages.BrandAdded);
+            }
+            else
+            {
+                return new ErrorResult(Messages.BrandAddFailed);
+            }
+            
         }
 
         public IDataResult<List<Brand>> GetAll()
@@ -30,7 +38,7 @@ namespace Business.Concrete
 
         public IDataResult<List<Brand>> GetAllByBrandId(int brandId)
         {
-            return new SuccessDataResult<List<Brand>>(_brandDal.GetAll(b=> b.BrandId == brandId), Messages.ListedSuccessfull);
+            return new SuccessDataResult<List<Brand>>(_brandDal.GetAll(b=> b.BrandId == brandId), Messages.ListingSuccessful);
         }
     }
 }

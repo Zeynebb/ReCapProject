@@ -21,35 +21,35 @@ namespace Business.Concrete
 
         public IResult Add(Car car)
         {
-            if (car.Description.Length >= 2 && car.DailyPrice > 0)
+            if (car.DailyPrice > 0)
             {
                 _carDal.Add(car);
                 return new SuccessResult(Messages.CarAdded);
             }
             else
             {
-                return new ErrorResult(Messages.CarNotAdded);
+                return new ErrorResult(Messages.CarAddFailed);
             }
         }
 
         public IDataResult<List<Car>> GetAll()
         {
-            return new SuccessDataResult<List<Car>>(_carDal.GetAll(), Messages.ListedSuccessfull);
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(), Messages.ListingSuccessful);
         }
 
         public IDataResult<List<Car>> GetAllByBrandId(int id)
         {
-            return new SuccessDataResult<List<Car>>(_carDal.GetAll(z => z.BrandId == id), Messages.ListedSuccessfull);
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(z => z.BrandId == id), Messages.ListingSuccessful);
         }
 
         public IDataResult<List<Car>> GetAllByColorId(int id)
         {
-            return new SuccessDataResult<List<Car>>(_carDal.GetAll(z => z.ColorId == id), Messages.ListedSuccessfull);
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(z => z.ColorId == id), Messages.ListingSuccessful);
         }
 
         public IDataResult<List<CarDetailDto>> GetCarDetail()
         {
-            return new SuccessDataResult<List<CarDetailDto>>(_carDal.GetCarDetail(), Messages.ListedSuccessfull);
+            return new SuccessDataResult<List<CarDetailDto>>(_carDal.GetCarDetail(), Messages.ListingSuccessful);
         }
     }
 }
