@@ -1,0 +1,17 @@
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\Business.dll
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\Core.dll
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.1\Core.pdb
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.1\Business.csproj.AssemblyReference.cache
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.1\Business.dll
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.1\Business.pdb

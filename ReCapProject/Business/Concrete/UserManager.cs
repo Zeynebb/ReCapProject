@@ -17,6 +17,12 @@ namespace Business.Concrete
             _userDal = userDal;
         }
 
+        public IResult Add(User user)
+        {
+            _userDal.Add(user);
+            return new SuccessResult(Messages.CustomerAdded);
+        }
+
         public IDataResult<List<User>> GetAll()
         {
             return new SuccessDataResult<List<User>>(_userDal.GetAll(), Messages.ListingSuccessful);

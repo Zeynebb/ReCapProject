@@ -1,0 +1,10 @@
+C:\c#AngularCamp\ReCapProject\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\c#AngularCamp\ReCapProject\Core\bin\Debug\netstandard2.1\Core.dll
+C:\c#AngularCamp\ReCapProject\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.1\Core.csproj.AssemblyReference.cache
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.1\Core.dll
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.1\Core.pdb

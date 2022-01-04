@@ -5,7 +5,6 @@ C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
 C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
 C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
 C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
-C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
 C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
 C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
@@ -14,3 +13,5 @@ C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
 C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
 C:\c#AngularCamp\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\c#AngularCamp\ReCapProject\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig

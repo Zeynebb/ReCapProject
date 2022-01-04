@@ -4,6 +4,7 @@ C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreComp
 C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
 C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\c#AngularCamp\ReCapProject\Core\bin\Debug\netstandard2.0\Core.pdb
-C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
 C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\c#AngularCamp\ReCapProject\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig

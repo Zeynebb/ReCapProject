@@ -1,0 +1,15 @@
+C:\c#AngularCamp\ReCapProject\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\c#AngularCamp\ReCapProject\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\c#AngularCamp\ReCapProject\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\c#AngularCamp\ReCapProject\DataAccess\bin\Debug\netstandard2.1\Core.dll
+C:\c#AngularCamp\ReCapProject\DataAccess\bin\Debug\netstandard2.1\Entities.dll
+C:\c#AngularCamp\ReCapProject\DataAccess\bin\Debug\netstandard2.1\Entities.pdb
+C:\c#AngularCamp\ReCapProject\DataAccess\bin\Debug\netstandard2.1\Core.pdb
+C:\c#AngularCamp\ReCapProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.AssemblyReference.cache
+C:\c#AngularCamp\ReCapProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#AngularCamp\ReCapProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\c#AngularCamp\ReCapProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\c#AngularCamp\ReCapProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\c#AngularCamp\ReCapProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
+C:\c#AngularCamp\ReCapProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\c#AngularCamp\ReCapProject\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb

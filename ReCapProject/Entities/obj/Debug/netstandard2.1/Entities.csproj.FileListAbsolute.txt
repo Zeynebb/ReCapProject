@@ -1,0 +1,13 @@
+C:\c#AngularCamp\ReCapProject\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+C:\c#AngularCamp\ReCapProject\Entities\bin\Debug\netstandard2.1\Entities.dll
+C:\c#AngularCamp\ReCapProject\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\c#AngularCamp\ReCapProject\Entities\bin\Debug\netstandard2.1\Core.dll
+C:\c#AngularCamp\ReCapProject\Entities\bin\Debug\netstandard2.1\Core.pdb
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.1\Entities.csproj.AssemblyReference.cache
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.1\Entities.dll
+C:\c#AngularCamp\ReCapProject\Entities\obj\Debug\netstandard2.1\Entities.pdb
